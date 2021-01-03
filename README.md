@@ -6,9 +6,9 @@ I am passionate about programming since primary school. I wrote my first program
 
 Currently I conduct a [YouTube channel for C# beginners](https://www.youtube.com/channel/UCu2zTB_M-xzF8uhe2tbLahA/) (in Polish language). I also conduct [a blog](https://kurscsharp.pl/). Those activities became my new hobby and caused that I pay even more attention to boost my C# skills.
 
-Last few days I started to do Kata excercises on https://www.codewars.com/ . I publish my solutions in my [GitHub organization](https://github.com/Edward-s-Codewars-Solutions). And this is my current Codewars rank:
+From time to time I like to do some Kata excercises on https://www.codewars.com/ . I publish my solutions in my [GitHub organization](https://github.com/Edward-s-Codewars-Solutions). And this is my current Codewars rank:
 
-![Edward's Codewars rank](https://www.codewars.com/users/edwardzieminski/badges/large)
+[![Edward's Codewars rank](https://www.codewars.com/users/edwardzieminski/badges/large)](https://www.codewars.com/users/edwardzieminski)
 
 <!--
 **edwardzieminski/edwardzieminski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
