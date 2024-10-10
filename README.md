@@ -1,14 +1,29 @@
-### Hi there 👋
+## Hi there! 👋 Welcome to my GitHub profile!
 
-I work as **Senior Business Process Analyst**, however besides analysis for new app implementation, at my job I also act as developer quite often.
+I’m a **Software Engineer** with a passion for technology and programming that started back in primary school. Here's a quick overview of my current tech stack:
 
-I am passionate about programming since primary school. I wrote my first program in **Turbo Pascal** in 2000. Since then I tried HTML, CSS, JS (jQuery), PHP, MySQL, PostgreSQL, SQLite, C++, QT, VBA and finally C#. It was always my hobby, but last years I decided to master my skills in C#.
+### 🛠️ Technologies I work with:
+- **Languages**: C#, F#, TypeScript
+- **Frameworks**: ASP.NET Core, WPF, Next.js (App Router), React
+- **Cloud Services (AWS)**: EC2, Lambda, Amplify, DynamoDB, RDS, Cognito
+- **Infrastructure as Code**: Terraform
 
-Currently I conduct a [YouTube channel for C# beginners](https://www.youtube.com/channel/UCu2zTB_M-xzF8uhe2tbLahA/) (in Polish language). I also conduct [a blog](https://kurscsharp.pl/). Those activities became my new hobby and caused that I pay even more attention to boost my C# skills.
+### 👨‍💻 A bit about my journey:
+I wrote my first program in **Turbo Pascal** in the year 2000, and since then, I've explored a variety of languages and technologies including HTML, CSS, JavaScript (jQuery), PHP, MySQL, PostgreSQL, SQLite, C++, Qt, and VBA, before settling into **C#** as my primary language.
 
-From time to time I like to do some Kata excercises on https://www.codewars.com/ . I publish my solutions in my [GitHub organization](https://github.com/Edward-s-Codewars-Solutions). And this is my current Codewars rank:
+### 🎥 Projects & Community Engagement:
+In the past, I ran a [YouTube channel](https://www.youtube.com/channel/UCu2zTB_M-xzF8uhe2tbLahA/) (in Polish) focused on helping **C# beginners**. Although it’s on pause for now, I may revive it in the future!  
+I also wrote articles on my blog: [Kurs C#](https://kurscsharp.pl/).
+
+### 🧠 Problem Solving:
+I enjoy sharpening my skills by solving Katas on [Codewars](https://www.codewars.com), where you can check out my current rank below:
 
 [![Edward's Codewars rank](https://www.codewars.com/users/edwardzieminski/badges/large)](https://www.codewars.com/users/edwardzieminski)
+
+---
+
+Feel free to connect or explore my repositories! 😊
+
 
 <!--
 **edwardzieminski/edwardzieminski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
